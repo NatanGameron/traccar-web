@@ -10,6 +10,7 @@ export default [
   'helicopter',
   'motorcycle',
   'person',
+  'pickup',
   'plane',
   'ship',
   'tractor',
